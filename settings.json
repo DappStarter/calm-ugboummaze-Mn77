@@ -1,0 +1,18 @@
+{
+    "name": "MY TEST",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "TEST",
+        "/category/asset_value_tracking/core-token/symbol": "TTT",
+        "/category/asset_value_tracking/core-token/supply": "1000000000",
+        "/category/asset_value_tracking/core-token/decimals": "10",
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "single"
+    }
+}
